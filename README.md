@@ -19,4 +19,4 @@
 
 ![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
 
-📕 **Мое резюме** [PDF](https://drive.google.com/file/d/1jT0e_0DyzfsJNyABhha8PH5iSnreu7-r/view?usp=share_link)
+📕 **Мое резюме** [PDF](https://drive.google.com/file/d/1z-OWzXxd8B50mpE-7WHJ4MoFc4WSU9Z_/view?usp=share_link)
