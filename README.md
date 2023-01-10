@@ -17,7 +17,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=14&duration=4000&pause=1500&color=1E0056&width=200&height=30&lines=%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE+%D1%87%D1%82%D0%BE+%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D0%BB%D0%B8)](https://git.io/typing-svg)
 
 📕 **Мое резюме** 
-<a href="https://drive.google.com/file/d/1IURHEyIIP0khUr7O5jGpcub6XhJmTEL1/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Google%20%D0%94%D0%B8%D1%81%D0%BA-PDF-28a8ea?style=flat-square&logo=googledrive"></a>
+<a href="https://drive.google.com/file/d/1Gpgh42Z9Y-FEmKU3ta45vsBHWxGl_snL/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Google%20%D0%94%D0%B8%D1%81%D0%BA-PDF-28a8ea?style=flat-square&logo=googledrive"></a>
 <a href="https://hh.ru/resume/996275afff0b8e5d030039ed1f514258537954" target="_blank"><img src="https://img.shields.io/badge/HH.ru-resume-28a8ea?style=flat-square&logo=hellyhansen"></a>
 
 📫 **Со мной можно связаться тут:**
@@ -26,11 +26,11 @@
 
 # Примеры практических работ
 - [MindMap, чек-лист, тест-кейсы, баг-репорт](https://github.com/RuFl-Artem/Test_Documentation)
-- [Рабочий тест кейс](https://github.com/RuFl-Artem/TestIT_Jira/blob/main/TestIT-001.pdf)
-- [Postman](https://github.com/RuFl-Artem/Postman)
+- [Тест кейс коммерческой практики](https://github.com/RuFl-Artem/TestIT_Jira/blob/main/TestIT-001.pdf)
+- [TestIT и Jira](https://github.com/RuFl-Artem/TestIT_Jira)
 - [Git и Bash](https://github.com/RuFl-Artem/Git)
 - [SQL](https://github.com/RuFl-Artem/SQL)
-- [TestIT и Jira](https://github.com/RuFl-Artem/TestIT_Jira)
+- [Postman](https://github.com/RuFl-Artem/Postman)
 - [Основы Java и Selenium](https://github.com/RuFl-Artem/Java-Selenium)
 - [Тестовый framework POM](https://github.com/RuFl-Artem/Framework_Demo)
 
